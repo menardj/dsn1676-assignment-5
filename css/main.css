@@ -16,3 +16,25 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+body {
+	background-color: lightgrey;
+}
+
+.title {
+	text-align: center;
+}
+
+.todolist {
+	padding: 10px 40px 10px 40px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.chore-form {
+	text-align: center;
+}
+
+.chore {
+
+}
